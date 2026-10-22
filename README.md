@@ -1,6 +1,6 @@
 # Cybersecurity Lab Projects
 
-A collection of three Bash automation tools built during the **Cybersecurity specialization** of my B.A. in Management Information Systems (Cyberium Arena / ThinkCyber). Each project automates a different part of a network security assessment. They are included here to demonstrate hands-on technical ability and structured implementation — scripting and automation, operational design, input validation, modular structure, and reviewable output — with the security tooling as the context in which those skills were applied.
+A collection of three Bash automation tools built during the Cybersecurity specialization of my B.A. in Management Information Systems. Each project automates a different part of a network security assessment. They are included here to demonstrate hands-on technical ability and structured implementation — scripting and automation, operational design, input validation, modular structure, and reviewable output — with the security tooling as the context in which those skills were applied.
 
 **Author:** Alisiya Rabinovich — B.A. in Management Information Systems (Cybersecurity specialization)
 
@@ -48,8 +48,7 @@ Across the three projects, the work demonstrates:
 - **Technical documentation** — clear, accurate write-ups of how each tool works, its decisions, and its limitations.
 - **Troubleshooting** — anticipating and handling missing dependencies, unreachable hosts, and other runtime conditions.
 
-My broader interests are in systems analysis, technical/IT project management, AI-related implementation, and solution-oriented technical roles; these projects are included as evidence of the technical foundation behind that work, not as a pursuit of a cybersecurity-specialist career.
-
+Together, these projects demonstrate the technical foundation, systems thinking, and process-oriented approach that I bring to broader areas such as systems analysis, technical project management, AI implementation, and solution-oriented technology roles.
 Each project folder contains the Bash script, a detailed README, lab screenshots in `assets/`, and the cleaned original project report in `docs/`.
 
 ## Repository structure
